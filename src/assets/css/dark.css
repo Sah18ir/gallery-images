@@ -1,0 +1,8 @@
+.darkMode #home {
+    background-color: black;
+    color: white;
+}
+
+.darkMode .footer {
+    --footer-background: black;
+}
